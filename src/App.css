@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1a418f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1, div, button, Link {
+  font-family: 'Times New Roman', Times, serif;
+
 }
